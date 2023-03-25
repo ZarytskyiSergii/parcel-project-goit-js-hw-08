@@ -28,3 +28,4 @@ window.onload = setSavedTime;
 
 
 
+// перезапис до gh-pages
